@@ -1,5 +1,5 @@
 # This is a strict mode compatible version of https://github.com/cthackers/adm-zip
-# evrything below is cloned from there:
+evrything below is cloned from there:
 
 # ADM-ZIP for NodeJS
 
